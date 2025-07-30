@@ -1,4 +1,4 @@
-Introduction:
+## Introduction:
  * Start by acknowledging Virat Kohli's status as one of the greatest batsmen of all time.
  * Briefly mention the purpose of the dashboard: To provide a data-driven overview of his career achievements.
 Main Presentation:
